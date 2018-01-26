@@ -1,5 +1,5 @@
-_November_
- 
+_NOVEMBER_
+------------------------------------------- 
    Much have I spoken of the *faded leaf*;	
    
    Long have I listened to the *wailing wind*,	
@@ -13,7 +13,7 @@ _November_
    
    The year must perish; *all the flowers are dead*;	
    
-   The sheaves are gathered; and the mottled quail	
+   The *sheaves are gathered*; and the mottled quail	
    
    Runs in the stubble, but the lark has *fled!*
    
@@ -21,9 +21,9 @@ _November_
  
    Still, *autumn ushers* in the Christmas cheer,	
    
-   The holly-berries and the ivy-tree:
+   The holly-berries and the *ivy-tree*:
    
-   They weave a chaplet for the Old Year’s bier,
+   *They weave* a chaplet for the Old Year’s bier,
    
    These waiting mourners *do not sing for me!*	
    
@@ -31,11 +31,12 @@ _November_
  
    *I find sweet peace in depths of autumn woods*,	
    
-   Where grow the ragged ferns and roughened moss;	
+   Where grow the *ragged* ferns and roughened moss;	
    
-   The naked, silent trees have taught me this,—
+   The *naked, silent trees* have *taught me* this,—
    
-   *The loss of beauty is not always loss*!
+   _The loss of beauty is not always loss!_
+   -------------------------------------------------
    
    -------------------------------------------- 
    *Elizabeth Drew Stoddard*
