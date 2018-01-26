@@ -17,8 +17,8 @@ _November_
  
    I find sweet peace in depths of autumn woods,	
    Where grow the ragged ferns and roughened moss;	
-  The naked, silent trees have taught me this,—
-    The loss of beauty is not always loss!
+   The naked, silent trees have taught me this,—
+   The loss of beauty is not always loss!
     
-            *Elizabeth Drew Stoddard*
+   *Elizabeth Drew Stoddard*
 https://www.poets.org/poetsorg/poem/november-1
