@@ -1,8 +1,8 @@
 ____________NOVEMBER____________
 ------------------------------------
 ___________________________________________ 
-   Much have I spoken of the *faded leaf*;	
-   
+ :fallen_leaf:  Much have I spoken of the *faded leaf*;
+
    Long have I listened to the *wailing wind*,	
    
    And watched it ploughing through the *heavy clouds*,	
@@ -20,7 +20,7 @@ ___________________________________________
    
    --------------------------------------------
  
-   Still, *autumn ushers* in the Christmas cheer,	
+   Still, *autumn ushers* in the Christmas cheer,
    
    The holly-berries and the *ivy-tree*:
    
@@ -30,7 +30,7 @@ ___________________________________________
    
    ---------------------------------------------
  
-   *I find sweet peace in depths of autumn woods*,	
+   :fallen_leaf:	*I find sweet peace in depths of autumn woods*,	
    
    Where grow the *ragged* ferns and roughened moss;	
    
