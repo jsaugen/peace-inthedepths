@@ -42,5 +42,6 @@ ___________________________________________
    -------------------------------------------- 
    *Elizabeth Drew Stoddard*
    
-(https://www.poets.org/poetsorg/poem/november-1)
+[November by Elizabeth Drew Stoddard - Poems | Academy of American Poets](https://www.poets.org/poetsorg/poem/november-1)
+
 
